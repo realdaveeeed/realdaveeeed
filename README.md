@@ -1,4 +1,4 @@
-# Dávid Fabriczius
+# Dávid Ferenc Fabriczius
 
 CS student at BME, Network and IT Security specialization.
 
